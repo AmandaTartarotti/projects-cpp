@@ -174,7 +174,7 @@ g++ equation.cpp -o equation
 ./equation
 ```
 
-## nm
+## mersenne
 ### Description:
 A Mersenne number is a number of the form Mn=2^n−1 for some positive integer n≥0.
 
@@ -183,7 +183,7 @@ Given a number n by user input, this C++ program returns the lowest Mersenne num
 Use git to clone the repository and use the g++ compiler to build the binary:
 ```
 git clone https://github.com/AmandaTartarotti/projects-cpp.git
-cd projects-cpp/nm
-g++ nm.cpp -o nm
-./nm
+cd projects-cpp/mersenne
+g++ mersenne.cpp -o mersenne
+./mersenne
 ```
